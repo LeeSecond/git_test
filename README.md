@@ -1,0 +1,1 @@
+This is Lee_Secons's first git project!
